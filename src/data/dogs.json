@@ -1,0 +1,47 @@
+[
+  {
+    "id": "Charley",
+    "name": "Charley",
+    "callName": "Charley",
+    "role": "dam",
+    "sex": "female",
+    "color": "Black & White with Tan Markings. (Full Fluffy | Bluie Carrier)",
+    "born": "2023-03-16",
+    "weightLbs": 21,
+    "registry": "AKC",
+    "health": ["DM clear", "vWD1 clear", "EIC clear"],
+    "temperament": "Patient, cuddly, and the first one at the door to greet her family. LOVES kids, puppies, and most of all she loves to kiss her cats, yes her cats.",
+    "photos": ["./images/charley/charley-1.jpeg", "./images/charley/charley-2.jpeg"],
+    "_note": "SAMPLE DATA"
+  },
+  {
+    "id": "Isabel",
+    "name": "Isabel",
+    "callName": "Isabel",
+    "role": "dam",
+    "sex": "female",
+    "color": "Red & white",
+    "born": "2022-03-01",
+    "weightLbs": 21,
+    "registry": "AKC",
+    "health": ["Retired", "DM clear", "vWD1 clear", "EIC clear"],
+    "temperament": "Busy herder with a soft side. Keeps the whole house in order, then naps on any soft surface she can find.",
+    "photos": [],
+    "_note": "SAMPLE DATA"
+  },
+  {
+    "id": "Jojo",
+    "name": "JoJo",
+    "callName": "JoJo",
+    "role": "sire",
+    "sex": "male",
+    "color": "Black & White with Tan Markings. (Full Bluie)",
+    "born": "2021-12-21",
+    "weightLbs": 28,
+    "registry": "AKC",
+    "health": ["DM clear", "vWD1 clear", "EIC clear"],
+    "temperament": "Big-dog energy in a short body. Steady with strangers, goofy with family, and LOVES to play with children, whether puppy or human.",
+    "photos": [],
+    "_note": "SAMPLE DATA"
+  }
+]

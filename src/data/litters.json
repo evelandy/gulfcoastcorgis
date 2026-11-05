@@ -1,0 +1,23 @@
+[
+  {
+    "id": "litter-2026-winter",
+    "name": "Winter '26 litter",
+    "damId": "Charley",
+    "sireId": "Jojo",
+    "status": "current",
+    "born": "2026-10-15",
+    "readyDate": "2026-12-25",
+    "summary": "Six puppies, four black and white and two bluies. Raised in the house, started on crate and potty pad training.",
+    "_note": "SAMPLE DATA"
+  },
+  {
+    "id": "litter-2027-spring",
+    "name": "Spring 2027 litter",
+    "damId": "dog-pearl",
+    "sireId": "dog-bayou",
+    "status": "upcoming",
+    "expected": "2027-03",
+    "summary": "Expected in March. Join the waitlist to get first pick order.",
+    "_note": "SAMPLE DATA"
+  }
+]

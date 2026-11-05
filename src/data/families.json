@@ -1,0 +1,52 @@
+[
+  {
+    "id": "fam-1",
+    "puppyName": "Gumbo",
+    "family": "Sample family",
+    "town": "League City, TX",
+    "year": 2025,
+    "note": "Replace this with a real note from a family (with their permission).",
+    "photos": [],
+    "sample": true
+  },
+  {
+    "id": "fam-2",
+    "puppyName": "Sandy",
+    "family": "Sample family",
+    "town": "Friendswood, TX",
+    "year": 2025,
+    "note": "Replace this with a real note from a family (with their permission).",
+    "photos": [],
+    "sample": true
+  },
+  {
+    "id": "fam-3",
+    "puppyName": "Pecan",
+    "family": "Sample family",
+    "town": "Baytown, TX",
+    "year": 2024,
+    "note": "Replace this with a real note from a family (with their permission).",
+    "photos": [],
+    "sample": true
+  },
+  {
+    "id": "fam-4",
+    "puppyName": "Skipper",
+    "family": "Sample family",
+    "town": "Kemah, TX",
+    "year": 2024,
+    "note": "Replace this with a real note from a family (with their permission).",
+    "photos": [],
+    "sample": true
+  },
+  {
+    "id": "fam-5",
+    "puppyName": "Beignet",
+    "family": "Sample family",
+    "town": "Pearland, TX",
+    "year": 2024,
+    "note": "Replace this with a real note from a family (with their permission).",
+    "photos": [],
+    "sample": true
+  }
+]
