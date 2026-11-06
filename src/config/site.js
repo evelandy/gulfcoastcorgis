@@ -2,7 +2,7 @@
 const env = import.meta.env;
 
 export const site = {
-  name: 'GulfCoast Corgis',
+  name: 'Gulf Coast Corgis',
   tagline: 'Pembroke Welsh Corgis raised on the Texas Gulf Coast',
   // Falls back to the current origin. Need to set VITE_SITE_URL in .env once domain is chosen and live.
   url: env.VITE_SITE_URL || (typeof window !== 'undefined' ? window.location.origin : ''),
@@ -10,7 +10,7 @@ export const site = {
   // TODO: EMAIL needs to be set once a domain is chosen and live. Currently using GrDev info email.
   contact: {
     // email: 'hello@gulf-coast-corgis.com',
-    email: 'info@grdev-us.com',
+    email: 'hello@gulfcoast-corgis.com',
     phone: '(409) 424-9319   ||   (832) 557-4731',
     phoneHref: 'tel:+14094249319',
     textHref: 'sms:+14094249319',

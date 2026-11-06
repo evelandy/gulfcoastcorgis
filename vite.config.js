@@ -6,7 +6,7 @@ import { viteSingleFile } from 'vite-plugin-singlefile';
 // `npm run build:single` -> everything inlined into one index.html (handy for quick previews)
 export default defineConfig(({ mode }) => ({
   plugins: [react(), ...(mode === 'single' ? [viteSingleFile()] : [])],
-  base: '/gulfcoastcorgis/',
+  base: '/',
   server: {
     port: 5173,
     // When your backend is running locally (e.g. Express on :4000), requests to /api

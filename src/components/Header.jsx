@@ -5,7 +5,7 @@ const LINKS = [
   { href: '#puppies', label: 'Puppies' },
   { href: '#our-dogs', label: 'Our adults' },
   { href: '#how-it-works', label: 'How it works' },
-  { href: '#families', label: 'Families' },
+  // { href: '#families', label: 'Families' }, commented out this link until enough families approve being on the site.
 ];
 
 export function Logo() {
