@@ -11,7 +11,7 @@
     "registry": "AKC",
     "health": ["DM clear", "vWD1 clear", "EIC clear"],
     "temperament": "Patient, cuddly, and the first one at the door to greet her family. LOVES kids, puppies, and most of all she loves to kiss her cats, yes her cats.",
-    "photos": ["./images/charley/charley-1.jpeg", "./images/charley/charley-2.jpeg"],
+    "photos": ["images/charley/charley-3.jpeg", "images/charley/charley-2.jpeg", "images/charley/charley-1.jpeg"],
     "_note": "SAMPLE DATA"
   },
   {
@@ -26,7 +26,7 @@
     "registry": "AKC",
     "health": ["Retired", "DM clear", "vWD1 clear", "EIC clear"],
     "temperament": "Busy herder with a soft side. Keeps the whole house in order, then naps on any soft surface she can find.",
-    "photos": [],
+    "photos": ["images/isabel/isabel-1.jpeg"],
     "_note": "SAMPLE DATA"
   },
   {
@@ -41,7 +41,7 @@
     "registry": "AKC",
     "health": ["DM clear", "vWD1 clear", "EIC clear"],
     "temperament": "Big-dog energy in a short body. Steady with strangers, goofy with family, and LOVES to play with children, whether puppy or human.",
-    "photos": [],
+    "photos": ["images/jojo/jojo-1.jpeg"],
     "_note": "SAMPLE DATA"
   }
 ]

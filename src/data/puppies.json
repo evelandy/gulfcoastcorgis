@@ -3,14 +3,19 @@
     "id": "Bear",
     "litterId": "litter-2026-winter",
     "name": "Boy 1 - Bear - Black and White",
-    "collar": "teal",
+    "collar": "navy",
     "sex": "male",
     "color": "Red & white",
     "coat": "Standard",
     "price": 1500,
     "status": "available",
     "personality": "Huge momma's boy, he loves attention and affection and loves being held and to play.",
-    "photos": []
+    "photos": [
+      "images/boy-1/boy-1-1.jpeg", "images/boy-1/boy-1-2.jpeg", "images/boy-1/boy-1-3.jpeg",
+      "images/boy-1/boy-1-4.jpeg", "images/boy-1/boy-1-5.jpeg", "images/boy-1/boy-1-6.jpeg",
+      "images/boy-1/boy-1-7.jpeg", "images/boy-1/boy-1-8.jpeg", "images/boy-1/boy-1-9.jpeg",
+      "images/boy-1/boy-1-10.jpeg", "images/boy-1/boy-1-11.jpeg", "images/boy-1/boy-1-12.jpeg"
+    ]
   },
   {
     "id": "Pebbles",
@@ -23,26 +28,18 @@
     "price": 1500,
     "status": "reserved",
     "personality": "Loves playing with her litter mates, and she is very vocal.",
-    "photos": []
-  },
-  {
-    "id": "Toe Beans",
-    "litterId": "litter-2026-winter",
-    "name": "Girl 2 - Toe Beans - Black and White",
-    "collar": "purple",
-    "sex": "female",
-    "color": "Tri-color",
-    "coat": "Standard",
-    "price": 1500,
-    "status": "available",
-    "personality": "The quite one of the bunch. She is calm, and will take her surroundings in before engaging. We know she will come out of her shell for that perfect family! Are you ready?",
-    "photos": []
+    "photos": [
+      "images/girl-1/girl-1-1.jpeg", "images/girl-1/girl-1-2.jpeg", "images/girl-1/girl-1-3.jpeg", 
+      "images/girl-1/girl-1-4.jpeg", "images/girl-1/girl-1-5.jpeg", "images/girl-1/girl-1-6.jpeg", 
+      "images/girl-1/girl-1-7.jpeg", "images/girl-1/girl-1-8.jpeg", "images/girl-1/girl-1-9.jpeg", 
+      "images/girl-1/girl-1-10.jpeg", "images/girl-1/girl-1-11.jpeg", "images/girl-1/girl-1-12.jpeg"
+    ]
   },
   {
     "id": "Weezer",
     "litterId": "litter-2026-winter",
     "name": "Boy 2 - Weezer - Black and White",
-    "collar": "orange",
+    "collar": "red",
     "sex": "male",
     "color": "Black and white with tan markings",
     "coat": "Standard",
@@ -57,17 +54,39 @@
     ]
   },
   {
+    "id": "Toe Beans",
+    "litterId": "litter-2026-winter",
+    "name": "Girl 2 - Toe Beans - Black and White",
+    "collar": "purple",
+    "sex": "female",
+    "color": "Tri-color",
+    "coat": "Standard",
+    "price": 1500,
+    "status": "available",
+    "personality": "The quite one of the bunch. She is calm, and will take her surroundings in before engaging. We know she will come out of her shell for that perfect family! Are you ready?",
+    "photos": [
+      "images/girl-2/girl-2-1.jpeg", "images/girl-2/girl-2-2.jpeg", "images/girl-2/girl-2-3.jpeg",
+      "images/girl-2/girl-2-4.jpeg", "images/girl-2/girl-2-5.jpeg", "images/girl-2/girl-2-6.jpeg",
+      "images/girl-2/girl-2-7.jpeg", "images/girl-2/girl-2-8.jpeg"
+    ]
+  },
+  {
     "id": "Gloria",
     "litterId": "litter-2026-winter",
     "name": "Girl 3 - Gloria - 'Bluie'",
-    "collar": "navy",
+    "collar": "teal",
     "sex": "female",
     "color": "Tri-color",
     "coat": "Standard",
     "price": 1500,
     "status": "available",
     "personality": "She has tons of energy and loves to play with her litter mates whether they are awake to play or not. She has an amazingly calm and sweet temperament around kids and other animals.",
-    "photos": []
+    "photos": [
+      "images/girl-3/girl-3-1.jpeg", "images/girl-3/girl-3-2.jpeg", "images/girl-3/girl-3-3.jpeg",
+      "images/girl-3/girl-3-4.jpeg", "images/girl-3/girl-3-5.jpeg", "images/girl-3/girl-3-6.jpeg",
+      "images/girl-3/girl-3-7.jpeg", "images/girl-3/girl-3-8.jpeg", "images/girl-3/girl-3-9.jpeg",
+      "images/girl-3/girl-3-10.jpeg"
+    ]
   },
   {
     "id": "Princess",
@@ -80,6 +99,11 @@
     "price": 1500,
     "status": "available",
     "personality": "She is calm yet playful at the same time. She is the explorer of the litter and will love to explore with her new family.",
-    "photos": []
+    "photos": [
+      "images/girl-4/girl-4-1.jpeg", "images/girl-4/girl-4-2.jpeg", "images/girl-4/girl-4-3.jpeg",
+      "images/girl-4/girl-4-4.jpeg", "images/girl-4/girl-4-5.jpeg", "images/girl-4/girl-4-6.jpeg",
+      "images/girl-4/girl-4-7.jpeg", "images/girl-4/girl-4-8.jpeg", "images/girl-4/girl-4-9.jpeg",
+      "images/girl-4/girl-4-10.jpeg", "images/girl-4/girl-4-11.jpeg", "images/girl-4/girl-4-12.jpeg"
+    ]
   }
 ]
