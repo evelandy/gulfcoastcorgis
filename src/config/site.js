@@ -11,7 +11,7 @@ export const site = {
   contact: {
     // email: 'hello@gulf-coast-corgis.com',
     email: 'hello@gulfcoast-corgis.com',
-    phone: '(409) 424-9319   ||   (832) 557-4731',
+    phone: '(409) 424-9319 (Courtney)   ||   (832) 557-4731 (Will)',
     phoneHref: 'tel:+14094249319',
     textHref: 'sms:+14094249319',
     area: 'Dickinson, TX area · visits by appointment',
