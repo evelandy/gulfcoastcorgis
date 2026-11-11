@@ -61,8 +61,7 @@ export default function Inquiry({ puppies, selected }) {
             </li>
             <li>
               <span>Email</span>
-              {/* <a href={`mailto:${site.contact.email}`}>{site.contact.email}</a> Once email is fully set up for this domain will return email to correct email*/}
-              <a href={`mailto:${site.contact.GrDevEmail}`}>{site.contact.email}</a>
+              <a href={`mailto:${site.contact.email}`}>{site.contact.email}</a>
             </li>
             <li>
               <span>Where</span>

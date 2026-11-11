@@ -10,9 +10,7 @@ export const site = {
   // TODO: EMAIL needs to be set once a domain is chosen and live. Currently using GrDev info email.
   contact: {
     // email: 'hello@gulf-coast-corgis.com',
-    // email: 'hello@gulfcoast-corgis.com',
-    email: 'info@grdev-us.com',
-    GrDevEmail: 'info@grdev-us.com',    // This needs to be removed and use above email once email for this domain is fully set up
+    email: 'hello@gulfcoast-corgis.com',
     phone: '(409) 424-9319 (Courtney)   ||   (832) 557-4731 (Will)',
     phoneHref: 'tel:+14094249319',
     textHref: 'sms:+14094249319',
