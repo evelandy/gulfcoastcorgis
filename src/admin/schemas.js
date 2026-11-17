@@ -15,10 +15,10 @@ export const schemas = {
     subtitle: (p) => `${p.sex === 'female' ? 'Girl' : 'Boy'}, ${p.color || ''}, ${p.status}`,
     defaults: {
       sex: 'female',
-      color: 'Red & white',
+      color: 'Black & White with Tan Markings',
       coat: 'Standard',
       status: 'available',
-      collar: 'teal',
+      collar: 'yellow',
       photos: [],
     },
     fields: [
@@ -27,7 +27,7 @@ export const schemas = {
         label: 'Name or collar name',
         type: 'text',
         required: true,
-        hint: 'e.g. "Teal collar boy" until they have a name',
+        hint: 'e.g. "Yellow collar girl" until they have a name',
       },
       { name: 'litterId', label: 'Litter', type: 'litter' },
       {

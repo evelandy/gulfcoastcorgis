@@ -4,6 +4,7 @@
   "description": "GulfCoast Corgis — breeder website (React + Vite)",
   "scripts": {
     "dev": "vite",
+    "dev:server": "npm --prefix server run dev",
     "build": "vite build",
     "preview": "vite preview",
     "build:single": "vite build --mode single"

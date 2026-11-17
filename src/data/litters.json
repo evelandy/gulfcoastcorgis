@@ -13,8 +13,6 @@
   {
     "id": "litter-2027-spring",
     "name": "Spring 2027 litter",
-    "damId": "dog-pearl",
-    "sireId": "dog-bayou",
     "status": "upcoming",
     "expected": "2027-03",
     "summary": "Expected in March. Join the waitlist to get first pick order.",

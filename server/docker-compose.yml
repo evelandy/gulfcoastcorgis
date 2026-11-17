@@ -1,0 +1,22 @@
+# Local development database. Production uses a hosted Postgres; only DATABASE_URL changes.
+services:
+  db:
+    image: postgres:16
+    container_name: gcc-db
+    restart: unless-stopped
+    environment:
+      POSTGRES_USER: gcc
+      POSTGRES_PASSWORD: gcc_dev
+      POSTGRES_DB: gcc
+    ports:
+      - '5436:5432' # 5432-5435 are used by other local projects
+    volumes:
+      - gcc-db-data:/var/lib/postgresql/data
+    healthcheck:
+      test: ['CMD-SHELL', 'pg_isready -U gcc -d gcc']
+      interval: 2s
+      timeout: 3s
+      retries: 15
+
+volumes:
+  gcc-db-data:

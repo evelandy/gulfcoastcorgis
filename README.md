@@ -45,6 +45,8 @@ Right now the form saves messages only in the visitor's browser, so **you won't 
 
 ## Connecting your backend
 
+The backend is built in [`server/`](server/README.md) (Express + Postgres). Run it alongside the site with `npm run dev:server`. The routes below are what the frontend expects. So far only `GET /api/health` exists.
+
 Set `VITE_API_URL` and the site switches from the JSON files to REST calls. All data access goes through **`src/services/api.js`**, so nothing else needs to change.
 
 Routes the frontend expects:
